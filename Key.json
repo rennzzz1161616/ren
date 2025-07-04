@@ -1,7 +1,5 @@
-{ 
-"Keys": [
-  "ren", 
-  "renz",
-  "renzTamvan"
-]
+{
+  "keys": [
+    "ren"
+  ]
 }
